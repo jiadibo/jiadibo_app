@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974148619969",
+    "firebase_url": "https://jiadiboapp.firebaseio.com",
+    "project_id": "jiadiboapp",
+    "storage_bucket": "jiadiboapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974148619969:android:90b36c7e19640ab5ff8e40",
+        "android_client_info": {
+          "package_name": "com.jiadibo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974148619969-171d9rp56ojid3qm3sn2auoukq7mp6af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiadibo.app",
+            "certificate_hash": "49d4aa4e4fa70c809c3df160940b6f4f0ac34ad9"
+          }
+        },
+        {
+          "client_id": "974148619969-mg38k14617r3b5sn83kqctgua2njcjjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtaNc12CDbCVyICX4dju398Bwoo7xTpYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974148619969-mg38k14617r3b5sn83kqctgua2njcjjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
